@@ -6097,7 +6097,9 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  /*background-color: #bd5d38 !important;*/
+  /* background-color: #676663 !important; */
+  background-color: #7FA4C9 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9800,6 +9802,12 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #bd5d38 !important;
+}
+
+.text-primary2 {
+  /*color: #bd5d38 !important;*/
+  color: #7FA4C9 !important;
+  
 }
 
 a.text-primary:hover, a.text-primary:focus {
