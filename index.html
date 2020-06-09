@@ -20,11 +20,11 @@
     <body id="page-top">
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-            <a class="navbar-brand js-scroll-trigger" href="#page-top"
-                ><span class="d-block d-lg-none">Karl Roush</span><span class="d-none d-lg-block">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+			<span class="d-block d-lg-none">Karl Roush</span><span class="d-none d-lg-block">
 				<h4>Karl Roush</h4>
-				<img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="" /></span></a
-            ><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+				<img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="" /></span></a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <!-- <h4>Karl Roush</h4> -->
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav">
@@ -43,20 +43,23 @@
         <!-- Page Content-->
         <div class="container-fluid p-0">
             <!-- About-->
-            <section class="resume-section" id="about">
+            <section class="resume-section bgimg_roush" id="about">
                 <div class="resume-section-content">
                     <h1 class="mb-0">Karl <span class="text-primary2">Roush</span></h1>
                     <div class="subheading mb-5" style="margin-bottom: -0.5rem;text-transform: capitalize;">Atlanta, GA · (908) 415-9479 · <a href="mailto:karl.roush@gmail.com" style="color:#7FA4C9;text-transform: lowercase;">karl.roush@gmail.com</a></div>
 					<h4> <i><div style="margin-top: -1rem;"> Research, Leadership, Service </div></i> </h4>
                     <p class="lead mb-5">Currently pursuing a MS in Aerospace Engineering, with a focus on propulsion. Graduated highest honors, Georgia Tech BS-AE 2020. 
 					An Eagle Scout with experience with jet engine design (NPSS), systems integration/fabrication, AI/ML, and infosec. 
-					Interests and continued learning in propulsion systems & information security. 
+					Additional interests and continued self study in information security, economics, and multi-domain operations.
 					<br/><br/>
-					I'm always looking for new projects- let's connect on the social media!</p>
+					I'm always looking for new projects- let's connect on social media!</p>
+				
                     <div class="social-icons">
                         <a class="social-icon" target="_blank" href="./assets/KRoush_Resume.pdf"><i class="fab fa-readme"></i></a>
 						<a class="social-icon" href="https://www.linkedin.com/in/karl-roush/"><i class="fab fa-linkedin-in"></i></a><a class="social-icon" href="https://github.com/karoush"><i class="fab fa-github"></i></a><a class="social-icon" href="https://twitter.com/Karl_Roush"><i class="fab fa-twitter"></i></a>
                     </div>
+					<br/>
+					<p id="mod"> </p>
                 </div>
             </section>
             <hr class="m-0" />
@@ -103,7 +106,7 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">UTSR Gas Turbine Industrial Fellowship</h3>
 							<a href="https://www2.swri.org/www2/utsr/pastfellows.htm">
-                            <div class="subheading mb-3" style="text-transform: capitalize;"><i>Southwest Research Institute:</i> Department of Energy, Office of Fossil Energy 
+                            <div class="subheading mb-3" style="text-transform: capitalize;"><i>Southwest Research Institute:</i> <span style="text-transform: none">Department of Energy, Office of Fossil Energy</span>
 								<svg class="bi bi-arrow-up-right-square" width="0.75em" height="0.75em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
 									<path fill-rule="evenodd" d="M14 1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z"/>
 									<path fill-rule="evenodd" d="M10.5 5h-4a.5.5 0 0 0 0 1h2.793l-4.147 4.146a.5.5 0 0 0 .708.708L10 6.707V9.5a.5.5 0 0 0 1 0v-4a.5.5 0 0 0-.5-.5z"/>
@@ -488,6 +491,12 @@
             </section>
 			
         </div>
+		
+		<script language="javascript">
+		<!-- var x = new Date(document.lastModified); -->
+		document.getElementById("mod").innerHTML = "<i>Last updated: "+document.lastModified+"<i>";
+		<!-- document.write("<i>Last updated "+document.lastModified+"<i>"); -->
+		</script> 
         <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
