@@ -1,0 +1,716 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3.2.html
+
+MainWindowBackground = #80fff200
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+TabWidth = 300
+
+FixedPageUI [
+	TextColor = #eeeeee
+	BackgroundColor = #111111
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	GradientColors = #000000
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #ffffff
+	BackgroundColor = #121212
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = en
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = book view
+DefaultZoom = fit page
+WindowState = 2
+WindowPos = 346 -10 803 727
+ShowToc = true
+SidebarDx = 173
+TocDy = 0
+ShowStartPage = true
+UseTabs = true
+
+FileStates [
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\(Joost Elffers Books) Robert Greene - The 33 Strategies of War-Penguin Books (2007).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 346 -10 803 727
+		ShowToc = true
+		SidebarDx = 173
+		DisplayR2L = false
+		ReparseIdx = 125965
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\50 Cent, Robert Greene - The 50th Law-Harper (2009).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 346 -10 803 727
+		ShowToc = true
+		SidebarDx = 173
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\The Main Enemy The Inside Story of the CIA's.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 346 -10 803 727
+		ShowToc = true
+		SidebarDx = 173
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Tom Clancy Hunt for Red October.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 847
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Andrew Cockburn - Kill Chain_ The Rise of the High-Tech Assassins (2015, Henry Holt and Co.) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 558 0 803 1040
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 255614
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Bartow J. Elmore - Citizen Coke_ The Making of Coca-Cola Capitalism (2014, W. W. Norton & Company) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 558 0 803 1040
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 681116
+		TocState = 7 13
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Neil deGrasse Tyson_ Avis Lang - Accessory to War_ The Unspoken Alliance Between Astrophysics and the Military (2018, W. W. Norton Company) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 558 0 803 1040
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 995772
+		TocState = 5 10
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Andrew Ross Sorkin - Too Big to Fail_ The Inside Story of How Wall Street and Washington Fought to Save the Financial System---and Themselves (2009, Viking Adult) - libgen.lc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 10
+		PageNo = 346
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 558 0 803 1040
+		ShowToc = false
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Barry Schwartz - The paradox of choice_ why more is less (2005, Harper Perennial) - libgen.lc.mobi
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 558 0 803 1040
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 444690
+		TocState = 6 9 12 19
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Tim Sanders - The Likeability Factor_ How to Boost Your L-Factor and Achieve Your Life's Dreams (2005, Crown) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 558 0 803 1040
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 357692
+		TocState = 7 12
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Ramit Sethi - I Will Teach You to Be Rich, Second Edition_ No Guilt. No Excuses. No B.S. Just a 6-Week Program That Works. (2019, Workman Publishing Company) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 531 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 202997
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Fisher, Roger_Patton, Bruce_Ury, William L - Getting to yes_ negotiating agreement without giving in (2015_2014).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 531 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 506994
+		TocState = 12 14 19 23 25
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Alex Banayan - The Third Door_ The Wild Quest to Uncover How the World’s Most Successful People Launched Their Careers.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 531 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 639015
+		TocState = 6 10 15 26 34
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\A-10s over Kosovo.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 88
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 531 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Emily Chang - Brotopia_ Breaking Up the Boys’ Club of Silicon Valley (2018, Portfolio) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 2144 296 803 1040
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 125014
+		TocState = 6 10 19
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Dan Ariely - Predictably Irrational, Revised and Expanded Edition_ The Hidden Forces That Shape Our Decisions (2014, University of Simon Fraser Library_HarperCollins) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 531 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 680375
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Epstein, D. - Range_ Why Generalists Triumph in a Specialized World (2019, Penguin Publishing Group) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 71 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 662663
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\finished\Epstein, D. - Range_ Why Generalists Triumph in a Specialized World.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 71 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 559
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Red Horizon The Truth of Discovery by Mercer Salvador (z-lib.org).epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 71 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 13523
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Len Fisher - Weighing the Soul_ Scientific Discovery from the Brilliant to the Bizarre (2011, Skyhorse Publishing) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 71 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 335513
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Ian Ayres - Super Crunchers_ Why Thinking-by-Numbers Is the New Way to Be Smart (2007, Bantam) - libgen.lc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 224
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 619 -8 803 728
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Black Infinity (Discovery Series, Book 3) by Salvador Mercer.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 1349230
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Red Horizon The Truth of Discovery book 2by Mercer Salvador.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 674425
+		TocState = 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Len Fisher - How to Dunk a Doughnut_ The Science of Everyday Life (2003) - libgen.lc.pdf
+		Favorites [
+			[
+				Name = softball?
+				PageNo = 119
+			]
+			[
+				Name = dont freeze milk
+				PageNo = 149
+			]
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = -1 -1
+		PageNo = 119
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 558 0 803 1040
+		ShowToc = false
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Randall Munroe - How To_ Absurd Scientific Advice for Common Real-World Problems (2019, Riverhead Books) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 491855
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Vincent Pugliese - Freelance to Freedom_ The Roadmap for Creating a Side Business to Achieve Financial, Time and Life Freedom (2017, Morgan James Publishing) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 495661
+		TocState = 4 6 15 16 22 28 33 38
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Goddard Wayne - Wayne Goddard's $$50 knife shop.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 20
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Jane Mayer - Dark Money_ The Hidden History of the Billionaires Behind the Rise of the Radical Right (2016, Doubleday) - libgen.lc.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 1033439
+		TocState = 20
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Sandworm A New Era of Cyberwar and the Hunt for the Kremlin’s Most Dangerous Hackers by Andy Greenberg.epub
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = facing
+		ScrollPos = 0 0
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = true
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 759740
+		TocState = 53
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Erik Durschmied - The Hinge Factor_ How Chance and Stupidity Have Changed History (2000) - libgen.lc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 380
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 467 204 803 727
+		ShowToc = false
+		SidebarDx = 196
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Karl Roush\Downloads\books\Ira Winkler - Spies Among Us_ How to Stop the Spies, Terrorists, Hackers, and Criminals You Don't Even Know You Encounter Every Day (2005, Wiley) - libgen.lc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = book view
+		ScrollPos = -1 -1
+		PageNo = 330
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 346 -10 803 727
+		ShowToc = true
+		SidebarDx = 173
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 581
+
+# Settings after this line have not been recognized by the current version
