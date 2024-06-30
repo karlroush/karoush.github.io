@@ -787,9 +787,11 @@
 	
 		</div>
 		<script language="javascript">
-		<!-- var x = new Date(document.lastModified); -->
-		document.getElementById("mod").innerHTML = "<i>Last updated: "+document.lastModified+"<i>";
-		<!-- document.write("<i>Last updated "+document.lastModified+"<i>"); -->
+			var modiDate = new Date(document.lastModified);
+			var showAs = (modiDate.getMonth() + 1) + "-"+ modiDate.getDate() + "-" + modiDate.getFullYear();
+			<!-- var x = new Date(document.lastModified); -->
+			document.getElementById("mod").innerHTML = "<i>Last updated: "+showAs+"<i>";
+			<!-- document.write("<i>Last updated "+document.lastModified+"<i>"); -->
 		</script> 
         <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
